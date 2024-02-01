@@ -47,8 +47,7 @@ This will start the Streamlit server and the app will be accessible at `localhos
 
 Enjoy chatting with Gemini-Pro!
 
-##
-Sample Images
+### Sample Images
 
 ##
 <img width="367" alt="image" src="https://github.com/vishnuvardhan-jadava/ChatBot_GenAI/assets/83878754/3ea6e8f7-ec4b-4b64-a0b8-a0c1d344b271">
