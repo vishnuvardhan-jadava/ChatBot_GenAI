@@ -1,5 +1,3 @@
-# ChatBot_GenAI
-
 # Gemini Pro Chatbot
 
 This project is a simple web-based chatbot powered by Google's GenAI. The chatbot is built using the Streamlit library in Python.
