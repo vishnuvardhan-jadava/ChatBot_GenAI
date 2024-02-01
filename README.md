@@ -1,6 +1,54 @@
 # ChatBot_GenAI
 
+# Gemini Pro Chatbot
 
+This project is a simple web-based chatbot powered by Google's GenAI. The chatbot is built using the Streamlit library in Python.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+You need to have the following packages installed:
+
+- streamlit
+- google.generativeai
+- dotenv
+
+You can install them using pip:
+
+```bash
+pip install streamlit google-generativeai python-dotenv
+```
+
+### Setting up
+
+1. Clone the repository to your local machine.
+2. Create a `.env` file in the root directory of the project.
+3. Add your GenAI API key to the `.env` file as follows:
+
+```bash
+API_KEY=your_api_key_here
+```
+
+### Running the App
+
+To run the app, navigate to the project directory and run the following command:
+
+```bash
+streamlit run app.py
+```
+
+This will start the Streamlit server and the app will be accessible at `localhost:8501`.
+
+## Features
+
+- **Chat**: You can chat with the Gemini-Pro model.
+- **Clear Chat**: You can clear the chat history at any time and start a fresh new chat.
+
+Enjoy chatting with Gemini-Pro!
+```
 
 
 ##
